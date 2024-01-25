@@ -1,6 +1,6 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
 
-[![Meu Github Status](https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro)](https://github.com/Andreas-Pinheiro/github-readme-stats)
+[![Meu Github Status](https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Andreas-Pinheiro/github-readme-stats#gh-dark-mode-only)
 
 ## Linguagens:
 
