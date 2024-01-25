@@ -1,19 +1,18 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
 
 <a href="https://github.com/Andreas-Pinheiro/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&theme=dracula" />
 </a>
 <a href="https://github.com/Andreas-Pinheiro/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Pinheiro&layout=compact&langs_count=8&card_width=100&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Pinheiro&layout=compact&langs_count=8&card_width=100&theme=dracula" />
 </a>
 
 ## Linguagens:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Andreas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andreas-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
 
