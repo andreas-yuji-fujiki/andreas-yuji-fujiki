@@ -1,7 +1,11 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&theme=dracula)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&hide_progress=true&theme=dracula)
+<a href="https://github.com/Andreas-Pinheiro/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/Andreas-Pinheiro/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ## Linguagens:
 
