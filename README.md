@@ -1,10 +1,4 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
-<a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
-</a>
-<a href="https://github.com/Andreas-Pinheiro/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Pinheiro&layout=compact&langs_count=8&card_width=100&theme=dracula" />
-</a>
 
 ## Linguagens:
 
@@ -14,6 +8,13 @@
   <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andreas-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
+
+<a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
+</a>
+<a href="https://github.com/Andreas-Pinheiro/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Pinheiro&layout=compact&langs_count=8&card_width=100&theme=dracula" />
+</a>
 
   ## Social:
  
