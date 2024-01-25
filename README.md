@@ -1,14 +1,15 @@
 # ` > ` Olá! Eu sou Andreas Pinheiro!
 
 ## Linguagens:
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Andreas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andreas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Andreas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andreas-LUA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
 </div>
+
 # 
+
 <a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
 </a>
