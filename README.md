@@ -1,4 +1,4 @@
-# ` > ` Olá! Eu sou Andreas Pinheiro!]
+# ` > ` Olá! Eu sou Andreas Pinheiro!
 ### Procurando ser um desenvolvedor melhor a cada dia...
 <a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
