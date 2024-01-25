@@ -1,9 +1,7 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
 
-<div>
-  [![Meu Github Status](https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/Andreas-Pinheiro/github-readme-stats#gh-dark-mode-only)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&hide_progress=true)
 ## Linguagens:
 
 <div style="display: inline_block"><br>
