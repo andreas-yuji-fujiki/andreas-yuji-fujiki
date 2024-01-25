@@ -1,6 +1,6 @@
 ## ` > ` Olá! Eu sou Andreas Pinheiro!
 <a href="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro\&rank_icon=github&theme=dracula" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&rank_icon=github&theme=dracula" />
 </a>
 <a href="https://github.com/Andreas-Pinheiro/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Andreas-Pinheiro&layout=compact&langs_count=8&card_width=100&theme=dracula" />
