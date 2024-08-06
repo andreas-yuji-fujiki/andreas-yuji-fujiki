@@ -23,7 +23,9 @@
   Typing Presentation & Paragraph:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
-<p></p>
+<p align="center">
+  Frontend Developer, call me Sun !
+</p>
 <p></p>
 <p></p>
 <p></p>
@@ -52,7 +54,7 @@
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
-    <img src="https://img.shields.io/badge/Visitas-11-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff" alt="Visitas" />
+    <img src="https://img.shields.io/badge/Visits:-11-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff" alt="Page Visits" />
 
 </div> 
 
@@ -99,4 +101,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
   <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
 </div>
+
+#
+<!--
+  Snake on Commits:
+-->
+<p align="center">
+  🐍 HEY! YOU SHOUDN'T BE EATING THIS, STOOOP 😭🙀😭🙀
+</p>
 
