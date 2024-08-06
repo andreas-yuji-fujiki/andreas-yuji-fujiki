@@ -144,7 +144,7 @@
   Snake on Commits:
 -->
 <p align="center">
-  🐍 HEY! YOU SHOUDN'T BE EATING THIS, STOOOP 😭🙀😭🙀
+  🐍 HEY! YOU SHOUDN'T BE EATING THIS!! STOOOP!! 😭🙀😭🙀
 </p>
 
 <div align="center">
