@@ -2,13 +2,23 @@
   Stacks:
 -->
 <div align="center">
-  <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React.js">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117" alt="Tailwind CSS">&nbsp;
-  <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" alt="Node.JS">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">&nbsp;
-  <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
+  <a href="https://github.com/Andreas-Pinheiro">
+    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React.js">&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117" alt="JavaScript">&nbsp;
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117" alt="Tailwind CSS">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" alt="Node.JS">&nbsp;
+    <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">&nbsp;
+    <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
+  </a>
 </div>
+
+<!-- Improvised Margin -->
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
@@ -25,18 +35,12 @@
   Typing Presentation & Paragraph:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/">
+    <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="mailto:andreaspinheirocontato@gmail.com"> 
+    <a href="mailto:andreaspinheirocontato@gmail.com" Target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
 </div> 
@@ -51,8 +55,10 @@
   Streak & Status
 -->
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Pinheiro's GitHub Streak Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
+  <a href="https://github.com/Andreas-Pinheiro">
+    <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Pinheiro's GitHub Streak Stats" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
+  </a>
 </div>
 
 
@@ -64,10 +70,10 @@
   Contributions Graph & Visitors Count
 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Pinheiro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
-  
-  <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=Andreas-Pinheiro.Andreas-Pinheiro" alt="Page Visitors" />
-  
+  <a href="https://github.com/Andreas-Pinheiro">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Pinheiro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=Andreas-Pinheiro.Andreas-Pinheiro" alt="Page Visitors" />
+  </a>
 </div>
 
 
@@ -83,11 +89,13 @@
     🛸 Tools That I Use :
 </p>
 <div align="center">
-    <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
-    <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git">&nbsp;
-    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
-    <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
+    <a href="https://github.com/Andreas-Pinheiro">
+      <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
+      <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git">&nbsp;
+      <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
+      <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
+    </a>
 </div>
 
 
@@ -103,8 +111,10 @@
     🌙 Other GitHub Stats :
 </p>
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
-  <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
+  <a href="https://github.com/Andreas-Pinheiro">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
+    <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
+  </a>
 </div>
 
 
@@ -121,11 +131,13 @@
 </p>
 
 <div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="https://github.com/Andreas-Pinheiro">
+    <picture align="center">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake.svg">
+    </picture>
+  </a>
 </div>
 
 
