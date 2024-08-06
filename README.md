@@ -1,5 +1,8 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 <!--GITHUB STATS:       <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />-->
+<!-- 
+  Stacks:
+-->
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwindcss&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -8,13 +11,22 @@
   ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
   ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 
-
+<!--
+  Typing Presentation:
+-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+i'm+Andreas+Pinheiro.;I'm+a+JavaScript+developer+=};I'm+17+years+old.;I'm+from+Brazil,+São+Paulo.)](https://git.io/typing-svg)
 
+<!--
+  Streak & Status
+-->
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&theme=tokyonight" />
 </div>
+
+<!--
+  Contributions Graph
+-->
 <div align="center" height="2px">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Pinheiro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
