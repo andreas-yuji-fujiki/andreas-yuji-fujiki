@@ -35,8 +35,8 @@
   Level, Achievements & Most Used Languages:
 -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>
-  <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=3&margin-w=15&margin-h=15" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
+  <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
 </div>
 
 <!--
