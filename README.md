@@ -21,7 +21,7 @@
 -->
 <div align="center">  
   <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&border_radius=10" alt="Andreas Pinheiro's GitHub Streak Stats" /> 
-  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
 </div>
 
 <!--
