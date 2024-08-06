@@ -22,10 +22,8 @@
 <!--
   Typing Presentation & Paragraph:
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
-<p align="center">
-  Frontend Developer, call me Sun !
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
+<p></p>
 <p></p>
 <p></p>
 <p></p>
