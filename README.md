@@ -12,6 +12,15 @@
   <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
 </div>
+<p></p>
+<div align="center">  
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="#"> 
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    </a>
+</div> 
 
 #
 
@@ -37,21 +46,13 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Pinheiro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
 </div>
-<div align="center">  
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="#"> 
-      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-</div> 
 
 #
 <!--
   Tools Area:
 -->
 <p align="center">
-    Tools That I Use:
+    🛸 Tools That I Use:
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
@@ -65,6 +66,9 @@
 <!--
   Level, Achievements & Most Used Languages:
 -->
+<p align="center">
+    🌙 Other GitHub Stats:
+</p>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
   <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
