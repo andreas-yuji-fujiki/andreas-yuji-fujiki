@@ -12,6 +12,10 @@
   </a>
 </div>
 
+
+
+
+
 <!-- Improvised Margin -->
 <p></p>
 <p></p>
@@ -25,11 +29,6 @@
 <p></p>
 <p></p>
 <p></p>
-
-
-
-
-
 
 <!--
   Typing Presentation & Contact Area:
@@ -47,6 +46,19 @@
     </a>
 </div> 
 
+<!-- Improvised Margin -->
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 
 
 
