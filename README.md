@@ -39,8 +39,6 @@
     <a href="mailto:andreaspinheirocontato@gmail.com"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
-    
-
 </div> 
 
 
