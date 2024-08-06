@@ -109,7 +109,7 @@
   Tools Area:
 -->
 <p align="center">
-    🛸 Tools That I Use:
+    🛸 Tools That I Use :
 </p>
 <div align="center">
     <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
@@ -129,7 +129,7 @@
   Level, Achievements & Most Used Languages:
 -->
 <p align="center">
-    🌙 Other GitHub Stats:
+    🌙 Other GitHub Stats :
 </p>
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
@@ -171,5 +171,5 @@
 #
 
 <p align="left">
-  📌 Some repositories pinned below:
+  📌 Some repositories pinned below :
 </p>
