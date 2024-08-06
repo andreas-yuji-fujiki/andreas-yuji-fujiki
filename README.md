@@ -32,15 +32,17 @@
 
 
 <!--
-  Typing Presentation & Paragraph:
+  Typing Presentation & Contact Area:
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
+<a href="https://github.com/Andreas-Pinheiro">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;"  alt="Andreas Pinheiro's Profile Presentation"/>
+</a>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
     </a>
-    <a href="mailto:andreaspinheirocontato@gmail.com" Target="_blank"> 
+    <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
 </div> 
@@ -149,7 +151,9 @@
 <!--
   Motivational Phrases &  Indication to pinned projects
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!)](https://git.io/typing-svg)
+<a href="https://github.com/Andreas-Pinheiro">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!" alt="Andreas Pinheiro's Profile Motivational Phrases">
+</a>
 
 #
 
