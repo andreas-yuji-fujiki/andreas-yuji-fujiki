@@ -1,6 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
 <!--![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;-->
-
 <!-- 
   Stacks:
 -->
@@ -52,7 +51,11 @@
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
-    <img src="https://img.shields.io/badge/Visits:-11-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff" alt="Page Visits" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
 
 </div> 
 
@@ -67,10 +70,34 @@
 </div>
 
 <!--
-  Contributions Graph
+  Contributions Graph & Visitors Count
 -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Andreas-Pinheiro&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph">
+
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  
+  <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=Andreas-Pinheiro.Andreas-Pinheiro" alt="Page Visits" />
+
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
 </div>
 
 #
