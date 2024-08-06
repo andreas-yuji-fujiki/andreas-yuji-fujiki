@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
 </div>
-
-#
+<p></p>
 
 <!--
   Typing Presentation & Paragraph:
