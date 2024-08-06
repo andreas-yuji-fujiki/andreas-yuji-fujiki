@@ -37,15 +37,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🎨+I'm+a+Frontend+Developer+•+ᴗ+-;🚀+I'm+17+years+old+•ᴗ•;"  alt="Andreas Pinheiro's Profile Presentation"/>
 </a>
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
-    </a>
-    <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
-    </a>
-</div> 
-
 <!-- Improvised Margin -->
 <p></p>
 <p></p>
@@ -59,6 +50,15 @@
 <p></p>
 <p></p>
 <p></p>
+
+<div align="center">
+    <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
+    </a>
+    <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    </a>
+</div> 
 
 
 
