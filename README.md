@@ -13,11 +13,15 @@
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
 </div>
 <p></p>
+<p></p>
 
 <!--
   Typing Presentation & Paragraph:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
+<p></p>
+<p></p>
+
 <div align="center">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
