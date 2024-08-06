@@ -16,6 +16,8 @@
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+i'm+Andreas+Pinheiro.;I'm+a+JavaScript+developer+=};I'm+17+years+old.;I'm+from+Brazil,+São+Paulo.)](https://git.io/typing-svg)
 
+#
+
 <!--
   Streak & Status
 -->
