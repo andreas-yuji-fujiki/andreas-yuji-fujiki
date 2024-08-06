@@ -1,5 +1,5 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
-<!--GITHUB STATS:       <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />-->
+<!--GITHUB STATS: <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&theme=tokyonight" alt="Most Used Languages"/>  -->
 <!-- 
   Stacks:
 -->
@@ -20,8 +20,8 @@
   Streak & Status
 -->
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats"/> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&theme=tokyonight" />
+  <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&border_radius=10" alt="Andreas Pinheiro's GitHub Streak Stats" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
 </div>
 
 <!--
