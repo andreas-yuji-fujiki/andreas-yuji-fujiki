@@ -12,15 +12,6 @@
   <img src="https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117" alt="CSS">&nbsp;
   <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
 </div>
-<p></p>
-<div align="center">  
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-    <a href="#"> 
-      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
-    </a>
-</div> 
 
 #
 
@@ -28,7 +19,24 @@
   Typing Presentation & Paragraph:
 -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
-
+<div align="center">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+    <a href="#"> 
+      <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    </a>
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+</div> 
 
 #
 
