@@ -164,5 +164,8 @@
 
 #
 <!--
-  Motivational Phrases &  
+  Motivational Phrases &  Indication to pinned projects
 -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=%F0%9F%A7%91+No+matter+how+hard,+persist,+%26+code!;%F0%9F%9A%80+No+matter+the+challenge,+progress,+%26+code!;%F0%9F%94%A7+No+matter+the+obstacle,+advance,+%26+code!;%F0%9F%93%9A+No+matter+the+mistake,+learn,+%26+code!;%E2%8F%B3+No+matter+the+time,+achieve,+%26+code!;%F0%9F%A4%94+No+matter+the+doubt,+trust,+%26+code!;%F0%9F%95%92+No+matter+the+pace,+continue,+%26+code!;%F0%9F%9B%A4+No+matter+the+path,+follow,+%26+code!;%F0%9F%94%84+No+matter+the+failure,+restart,+%26+code!;%F0%9F%97%82+No+matter+the+chaos,+organize,+%26+code!)](https://git.io/typing-svg)
+
+# 📌 Some repositories pinned below:
