@@ -33,10 +33,10 @@
 <p></p>
 
 <div align="center">
-    <a href="#">
+    <a href="https://www.linkedin.com/in/andreas-pinheiro-a08633321/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-    <a href="#"> 
+    <a href="mailto:andreaspinheirocontato@gmail.com"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
     </a>
     
