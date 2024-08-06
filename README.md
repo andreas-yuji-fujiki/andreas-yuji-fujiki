@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
-    <img src="https://img.shields.io/badge/Visits-1234-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff" alt="Visits" />
+    <img src="https://img.shields.io/badge/Visitas-11-000000?style=for-the-badge&labelColor=000000&logoColor=ffffff" alt="Visitas" />
 
 </div> 
 
