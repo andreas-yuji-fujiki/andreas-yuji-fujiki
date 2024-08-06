@@ -1,5 +1,3 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/> -->
-<!--![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;-->
 <!-- 
   Stacks:
 -->
@@ -17,6 +15,11 @@
 <p></p>
 <p></p>
 <p></p>
+
+
+
+
+
 
 <!--
   Typing Presentation & Paragraph:
@@ -59,8 +62,12 @@
 
 </div> 
 
-#
 
+
+
+
+
+#
 <!--
   Streak & Status
 -->
@@ -68,6 +75,11 @@
   <img width="50%" height="195px" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Andreas-Pinheiro&count_private=true&theme=tokyonight&hide_border=true" alt="Andreas Pinheiro's GitHub Streak Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Andreas-Pinheiro&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Andreas Pinheiro's GitHub Stats" />
 </div>
+
+
+
+
+
 
 <!--
   Contributions Graph & Visitors Count
@@ -106,6 +118,11 @@
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
 </div>
 
+
+
+
+
+
 #
 <!--
   Tools Area:
@@ -121,6 +138,11 @@
     <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
 </div>
 
+
+
+
+
+
 #
 <!--
   Level, Achievements & Most Used Languages:
@@ -132,6 +154,11 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas-Pinheiro&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
   <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=Andreas-Pinheiro&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
 </div>
+
+
+
+
+
 
 #
 <!--
@@ -148,3 +175,13 @@
     <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Andreas-Pinheiro/Andreas-Pinheiro/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+
+
+
+
+
+#
+<!--
+  Motivational Phrases &  
+-->
