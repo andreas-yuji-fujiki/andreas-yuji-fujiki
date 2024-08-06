@@ -85,9 +85,17 @@
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   
   <img width="10%" src="https://visitor-badge.laobi.icu/badge?page_id=Andreas-Pinheiro.Andreas-Pinheiro" alt="Page Visits" />
 
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
   <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logoColor=000000&labelColor=000000" alt="Black Badge" />
