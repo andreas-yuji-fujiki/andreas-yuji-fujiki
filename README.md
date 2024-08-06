@@ -18,9 +18,9 @@
 <!--
   Typing Presentation:
 -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=Hey,+i'm+Andreas+Pinheiro.;I'm+a+React+developer+=};I'm+17+years+old.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b5f7&size=35&center=true&vCenter=true&width=1000&lines=🪐+Hey,+i'm+Andreas+Pinheiro+=];⚛️+I'm+a+React+developer+=};🚀+I'm+17+years+old+•ᴗ•;)](https://git.io/typing-svg)
 <p align="center">
-  A Frontend Developer from Brazil, São Paulo
+  A Frontend Developer from Brazil, São Paulo!
 </p>
 
 #
