@@ -53,7 +53,7 @@
 
 <div align="center">
     <a href="https://andreas-yuji-fujiki.github.io/andreas-yuji-react-portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=react&logoColor=white" alt"Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-a08633321/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
