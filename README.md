@@ -1,5 +1,5 @@
 <!--       
-    Stacks: 
+    Stacks:  
 -->  
 <p align="center">ROTINA TA PESADA, EU RETORNO, JURO.</p>
 <div align="center">
