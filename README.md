@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">&nbsp;
     <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117" alt="Styled Components">&nbsp;
     <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" alt="Node.JS">&nbsp;
-    <img src="https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117" alt="Figma">&nbsp;
   </a> 
 </div>
 
