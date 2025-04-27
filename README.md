@@ -129,7 +129,7 @@
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
-      <img src="https://img.shields.io/badge/-Figma-4-Devs-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
+      <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
     </a>
