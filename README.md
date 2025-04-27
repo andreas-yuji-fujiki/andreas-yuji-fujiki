@@ -5,14 +5,14 @@
   <a href="https://github.com/andreas-yuji-fujiki">     
     <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117" alt="React.js">&nbsp;
     <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=0D1117" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">&nbsp;
     <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117" alt="Node.JS">&nbsp;
     <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" alt="Express" />
     <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" alt="Prisma" />
-    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Python" />
+    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white&labelColor=yellow" alt="Python" />
     <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117" alt="Flask" />
-    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white&labelColor=blue" alt="MySQL" />
   </a> 
 </div>
 
@@ -56,7 +56,7 @@
 
 <div align="center">
     <a href="https://andreas-yuji-fujiki.github.io/portfolio/">
-      <img src="https://img.shields.io/badge/Portfolio-800080?style=flat&logo=react&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-800080?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-a08633321/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
