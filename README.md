@@ -3,16 +3,31 @@
 -->
 <div align="center">
   <a href="https://github.com/andreas-yuji-fujiki">     
-    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React.js" />&nbsp;
-    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native" />&nbsp;
-    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript" />&nbsp;
-    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript" />&nbsp;
-    <img src="https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.JS" />&nbsp;
-    <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express" />&nbsp;
-    <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=white&labelColor=0D1117" alt="Prisma" />&nbsp;
-    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python" />&nbsp;
-    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" alt="Flask" />&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL" />
+    <!-- Tecnologias -->
+    <img src="https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React.js">&nbsp;
+    <img src="https://img.shields.io/badge/-React%20Native-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0D1117" alt="React Native">&nbsp;
+    <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" alt="Next.js">&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript">&nbsp;
+    <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.js">&nbsp;
+    <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express">&nbsp;
+    <img src="https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=flask&logoColor=ffffff&labelColor=0D1117" alt="Flask">&nbsp;
+    <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117" alt="Python">&nbsp;
+    <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" alt="Prisma">&nbsp;
+    <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
+    <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" alt="TailwindCSS">&nbsp;
+    <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117" alt="Styled Components">&nbsp;
+    <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" alt="Redux">&nbsp;
+    <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
+    <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0D1117" alt="GitHub">&nbsp;
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117" alt="VS Code">&nbsp;
+    <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma">&nbsp;
+    <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL">&nbsp;
+    <img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=0D1117" alt="PostgreSQL">&nbsp;
+    <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB">&nbsp;
+    <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624&labelColor=0D1117" alt="Linux">&nbsp;
+    <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117" alt="WSL">&nbsp;
   </a> 
 </div>
 
