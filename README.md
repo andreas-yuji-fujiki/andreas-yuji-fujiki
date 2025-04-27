@@ -62,6 +62,9 @@
     <a href="https://www.instagram.com/sun.developer/" target="_blank">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="Instagram" />
     </a>
+    <a href="https://leetcode.com/profile/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
 </div> 
 
 
