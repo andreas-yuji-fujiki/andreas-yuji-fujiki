@@ -137,6 +137,10 @@
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
       <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
+      <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
+      <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="VPS Linux Server">&nbsp;
+      <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117" alt="Apache">&nbsp;
+      <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117" alt="Insomnia">&nbsp;
     </a>
 </div>
 
