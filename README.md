@@ -132,7 +132,6 @@
     <a href="https://github.com/andreas-yuji-fujiki">
       <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
       <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117" alt="WSL">&nbsp;
-      <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
