@@ -143,7 +143,7 @@
       <img src="https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&logoColor=ffffff&labelColor=0D1117" alt="ClickUp">&nbsp;
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
       <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
-      <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117" alt="Apache">&nbsp;
+      <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=5b154d&labelColor=0D1117" alt="Apache">&nbsp;
       <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&labelColor=0D1117" alt="Insomnia">&nbsp;
     </a>
 </div>
