@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" alt="TailwindCSS">&nbsp;
     <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117" alt="Styled Components">&nbsp;
     <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" alt="jQuery">&nbsp;
-    <img src="https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=http&logoColor=ffffff&labelColor=0D1117" alt="AJAX">&nbsp;
+    <img src="https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=F7CB4D" alt="AJAX">&nbsp;
     <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" alt="Jest" /> &nbsp;
     <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" alt="React Testing Library" />
     <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=3776AB&labelColor=0D1117" alt="Pytest" />&nbsp;
@@ -137,6 +137,8 @@
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=font-awesome&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
       <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="VPS Linux Server">&nbsp;
+      <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=F7CB4D" alt="Flasgger">&nbsp;
+      <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=F7CB4D" alt="Notion">&nbsp;
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
       <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
       <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117" alt="Apache">&nbsp;
