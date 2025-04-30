@@ -17,12 +17,12 @@
     <img src="https://img.shields.io/badge/-Prisma-0D1117?style=for-the-badge&logo=prisma&logoColor=ffffff&labelColor=0D1117" alt="Prisma">&nbsp;
     <img src="https://img.shields.io/badge/-TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC&labelColor=0D1117" alt="TailwindCSS">&nbsp;
     <img src="https://img.shields.io/badge/-Styled%20Components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093&labelColor=0D1117" alt="Styled Components">&nbsp;
-    <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" alt="jQuery">
-    <img src="https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=ajax&logoColor=0078D4&labelColor=0D1117" alt="AJAX">
-    <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" alt="Jest" /> 
+    <img src="https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&logoColor=0769AD&labelColor=0D1117" alt="jQuery">&nbsp;
+    <img src="https://img.shields.io/badge/-AJAX-0D1117?style=for-the-badge&logo=ajax&logoColor=0078D4&labelColor=0D1117" alt="AJAX">&nbsp;
+    <img src="https://img.shields.io/badge/-Jest-0D1117?style=for-the-badge&logo=jest&logoColor=C21325&labelColor=0D1117" alt="Jest" /> &nbsp;
     <img src="https://img.shields.io/badge/-React%20Testing%20Library-0D1117?style=for-the-badge&logo=testing-library&logoColor=E33332&labelColor=0D1117" alt="React Testing Library" />
-    <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=3776AB&labelColor=0D1117" alt="Pytest" />
-    <img src="https://img.shields.io/badge/-Supertest-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="Supertest" />
+    <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=3776AB&labelColor=0D1117" alt="Pytest" />&nbsp;
+    <img src="https://img.shields.io/badge/-Supertest-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="Supertest" />&nbsp;
     <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL">&nbsp;
     <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB">&nbsp;
   </a> 
