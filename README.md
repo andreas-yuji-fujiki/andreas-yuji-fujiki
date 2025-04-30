@@ -135,8 +135,6 @@
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
       <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=font-awesome&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=font-awesome&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
-        <img src="https://img.shields.io/badge/-VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code">
-<img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&logoColor=00ADEF&labelColor=0D1117" alt="Windows">
       <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="VPS Linux Server">&nbsp;
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
