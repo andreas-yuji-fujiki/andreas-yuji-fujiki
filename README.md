@@ -144,7 +144,7 @@
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
       <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
       <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&logoColor=e64b35&labelColor=0D1117" alt="Apache">&nbsp;
-      <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=5d12cd&labelColor=0D1117" alt="Insomnia">&nbsp;
+      <img src="https://img.shields.io/badge/-Insomnia-0D1117?style=for-the-badge&logo=insomnia&logoColor=7819da&labelColor=0D1117" alt="Insomnia">&nbsp;
     </a>
 </div>
 
