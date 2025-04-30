@@ -139,6 +139,8 @@
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="VPS Linux Server">&nbsp;
       <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=F7CB4D" alt="Flasgger">&nbsp;
       <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=FFFFF" alt="Notion">&nbsp;
+      <img src="https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&logoColor=ffffff&labelColor=0D1117" alt="Trello">&nbsp;
+      <img src="https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&logoColor=ffffff&labelColor=0D1117" alt="ClickUp">&nbsp;
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
       <img src="https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0D1117" alt="Docker">&nbsp;
       <img src="https://img.shields.io/badge/-Apache-0D1117?style=for-the-badge&logo=apache&labelColor=0D1117" alt="Apache">&nbsp;
