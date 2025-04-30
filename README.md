@@ -129,12 +129,12 @@
 <div align="center">
     <a href="https://github.com/andreas-yuji-fujiki">
       <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
-      <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6&labelColor=0D1117" alt="WSL">&nbsp;
+      <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" alt="WSL">&nbsp;
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
-      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
-      <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117" alt="Windows">&nbsp;
+      <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC&labelColor=0D1117" alt="Visual Studio Code">&nbsp;
+      <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
       <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="VPS Linux Server">&nbsp;
       <img src="https://img.shields.io/badge/-Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0D1117" alt="Vite">&nbsp;
