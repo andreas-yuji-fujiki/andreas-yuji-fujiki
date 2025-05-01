@@ -137,7 +137,7 @@
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=font-awesome&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
       <img src="https://img.shields.io/badge/-Postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117" alt="Postman">&nbsp;
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="VPS Linux Server">&nbsp;
-      <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=F7CB4D" alt="Flasgger">&nbsp;
+      <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=07e9a5" alt="Flasgger">&nbsp;
       <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=FFFFF" alt="Notion">&nbsp;
       <img src="https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello&logoColor=1565d4&labelColor=0D1117" alt="Trello">&nbsp;
       <img src="https://img.shields.io/badge/-ClickUp-0D1117?style=for-the-badge&logo=clickup&logoColor=fa32a9&labelColor=0D1117" alt="ClickUp">&nbsp;
