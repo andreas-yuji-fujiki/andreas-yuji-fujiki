@@ -24,6 +24,7 @@
     <img src="https://img.shields.io/badge/-Pytest-0D1117?style=for-the-badge&logo=pytest&logoColor=3776AB&labelColor=0D1117" alt="Pytest" />&nbsp;
     <img src="https://img.shields.io/badge/-Supertest-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="Supertest" />&nbsp;
     <img src="https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1&labelColor=0D1117" alt="MySQL">&nbsp;
+    <img src="https://img.shields.io/badge/-MariaDB-0D1117?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=0D1117" alt="MariaDB">&nbsp;
     <img src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0D1117" alt="MongoDB">&nbsp;
   </a> 
 </div>
