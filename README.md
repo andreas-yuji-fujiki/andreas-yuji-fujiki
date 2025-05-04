@@ -71,7 +71,7 @@
       <img src="https://img.shields.io/badge/-Portfolio-6E40C9?style=for-the-badge&logo=nexon&logoColor=white&labelColor=6E40C9" alt="Portfolio">
     </a>
     <a href="https://www.linkedin.com/in/andreas-yuji-fujiki-a08633321/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt"LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt"LinkedIn" />
     </a>
     <a href="mailto:andreaspinheirocontato@gmail.com" target="_blank"> 
       <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
