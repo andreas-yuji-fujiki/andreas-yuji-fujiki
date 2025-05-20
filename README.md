@@ -131,14 +131,15 @@
 <div align="center">
     <a href="https://github.com/andreas-yuji-fujiki">
       <img src="https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117" alt="Linux">&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=2496ED" alt="MySQL Workbench">
       <img src="https://img.shields.io/badge/-WSL-0D1117?style=for-the-badge&logo=ubuntu&logoColor=E95420&labelColor=0D1117" alt="WSL">&nbsp;
       <img src="https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117" alt="Git">&nbsp;
       <img src="https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117" alt="GitHub">&nbsp;
       <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=0D1117" alt="Figma 4 Devs">&nbsp;
       <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&labelColor=0D1117&logo=swagger&logoColor=00ADEF" alt="Visual Studio Code">&nbsp;
       <img src="https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=font-awesome&logoColor=00ADEF&labelColor=0D1117" alt="Windows">&nbsp;
-      <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&labelColor=0D1117&logo=dbeaver&logoColor=4c3b35" alt="DBeaver">
-      <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=2496ED" alt="MySQL Workbench">
+      <img src="https://img.shields.io/badge/-DBeaver-0D1117?style=for-the-badge&labelColor=0D1117&logo=dbeaver&logoColor=4c3b35" alt="DBeaver">&nbsp;
+      <img src="https://img.shields.io/badge/-MySQL%20Workbench-0D1117?style=for-the-badge&labelColor=0D1117&logo=mysql&logoColor=2496ED" alt="MySQL Workbench">&nbsp;
       <img src="https://img.shields.io/badge/-VPS_Linux_Server-0D1117?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="VPS Linux Server">&nbsp;
       <img src="https://img.shields.io/badge/-Flasgger-0D1117?style=for-the-badge&logo=swagger&labelColor=0D1117&logoColor=07e9a5" alt="Flasgger">&nbsp;
       <img src="https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117&logoColor=FFFFF" alt="Notion">&nbsp;
