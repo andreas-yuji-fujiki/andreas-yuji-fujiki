@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=0D1117" alt="Next.js">&nbsp;
     <img src="https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117" alt="JavaScript">&nbsp;
     <img src="https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117" alt="TypeScript">&nbsp;
-    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node.js">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=0D1117" alt="Node js">&nbsp;
     <img src="https://img.shields.io/badge/-Express-0D1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0D1117" alt="Express">&nbsp;
     <img src="https://img.shields.io/badge/-Redux-0D1117?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=0D1117" alt="Redux">&nbsp;
     <img src="https://img.shields.io/badge/-Zustand-0D1117?style=for-the-badge&logo=zincsearch&logoColor=white&labelColor=0D1117" alt="Zustand">
