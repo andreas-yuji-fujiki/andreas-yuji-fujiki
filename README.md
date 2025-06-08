@@ -168,7 +168,7 @@
 </p>
 <div align="center">
   <a href="https://github.com/andreas-yuji-fujiki">
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most Used Languages"/>
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreas-yuji-fujiki&layout=compact&hide_border=true&margin-h=109px&theme=tokyonight" alt="Most used languages"/>
     <img width="50%" height="195px" src="https://github-profile-trophy.vercel.app/?username=andreas-yuji-fujiki&theme=dracula&row=2&no-bg=false&column=5&margin-w=0&margin-h=0" />
   </a>
 </div>
